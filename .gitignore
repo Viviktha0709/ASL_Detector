@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dataset folders
+asl_dataset/
+asl_split/
+
+# Model files (usually large)
+*.h5
+*.hdf5
+*.keras
+
+# Images or generated results (optional)
+images/
+*.jpg
+*.jpeg
+*.png
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
