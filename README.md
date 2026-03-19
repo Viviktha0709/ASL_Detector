@@ -26,7 +26,7 @@ Python libraries used:
 - mediapipe  
 - openCV  
 - sklearn  
-- torch  
+- tensorflow  
 
 ---
 
@@ -44,7 +44,7 @@ A CNN-based ASL detector, trained on a well-structured and comprehensive dataset
   - ~87,000 images total (3,000 per class)  
 
 Libraries:  
-`numpy, pandas, mediapipe, sklearn, torch`  
+`numpy, pandas, mediapipe, sklearn, tensorflow`  
 
 ---
 
